@@ -12,12 +12,13 @@ dictionary = {
 # age = 42
 # height = 4.2
 ```
-Save one of the following to your clipboard
-_Keys with double quotes_
+Save one of the following to your clipboard.   
+
+ - _Keys with double quotes_
 ```bash
 0f"xf"xf:r=$x+
 ```
-_Keys with single quotes_
+ - _Keys with single quotes_
 ```bash
 0f'xf'xf:r=$x+
 ```
